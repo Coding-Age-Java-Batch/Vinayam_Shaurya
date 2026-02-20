@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5daf7f55-1cdb-47f6-ab57-7fde841c7db8" name="Changes" comment="save all files">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vinayam_Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/Vinayam_Shaurya.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/split.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/src/Sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vinayam_Shaurya/src/Sumofarrayelements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +23,21 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Vinayam_Shaurya" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "35262021223526"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;35262021223526&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Coding-Age-Java-Batch/Vinayam_Shaurya.git",
-    "accountId": "52981d2f-e4f2-440b-8dd2-5e8282af6b5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Coding-Age-Java-Batch/Vinayam_Shaurya.git&quot;,
+    &quot;accountId&quot;: &quot;52981d2f-e4f2-440b-8dd2-5e8282af6b5b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -72,6 +55,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/Vinayam_Homework/src/Main.java",
     "vue.rearranger.settings.migration": "true"
